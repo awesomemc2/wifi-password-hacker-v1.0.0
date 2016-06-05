@@ -1,0 +1,9 @@
+when the server is good
+ if the wifi is on the command
+  make.ip("pass())
+end
+
+when the ip is going
+ (function("meet ip"))
+end
+ 
